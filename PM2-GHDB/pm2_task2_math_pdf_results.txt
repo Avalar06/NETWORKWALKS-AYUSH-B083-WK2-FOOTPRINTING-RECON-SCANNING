@@ -1,0 +1,41 @@
+PM2 TASK 2 - MATHEMATICS PDF DIRECTORY LISTINGS
+
+1. http://erwhon.superkuh.com/library/Math/
+Relevant Dork: intitle:index.of "parent directory" mathematics pdf
+Username/Password: N/A
+
+2. https://www.sajairamcollege.ac.in/pdf/MATHEMATICS/
+Relevant Dork: intitle:index.of "mathematics" "pdf" "parent directory"
+Username/Password: N/A
+
+3. https://theswissbay.ch/pdf/Books/Mathematics/
+Relevant Dork: intitle:index.of "mathematics" "books" pdf
+Username/Password: N/A
+
+4. https://isidore.co/misc/Physics%20papers%20and%20books/Mathematics/
+Relevant Dork: intitle:index.of "mathematics" "books" pdf
+Username/Password: N/A
+
+5. https://discrete.openmathbooks.org/pdfs/
+Relevant Dork: intitle:index.of "math" "books" pdf
+Username/Password: N/A
+
+6. https://zaco.au/lib/math/hs/
+Relevant Dork: intitle:index.of "mathematics" "textbook" pdf
+Username/Password: N/A
+
+7. https://www.math.mcgill.ca/barr/
+Relevant Dork: intitle:index.of "mathematics" "lecture notes" pdf
+Username/Password: N/A
+
+8. http://www.unm.edu/~megrad/Math/
+Relevant Dork: site:edu "index of" mathematics pdf
+Username/Password: N/A
+
+9. https://www.math.dartmouth.edu/~carlp/PDF/
+Relevant Dork: site:edu "index of" mathematics pdf
+Username/Password: N/A
+
+10. https://docs.bartonccc.edu/syllabus/Master/MATH/
+Relevant Dork: site:edu "index of" mathematics pdf
+Username/Password: N/A
