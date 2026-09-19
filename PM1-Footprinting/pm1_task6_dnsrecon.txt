@@ -1,0 +1,17 @@
+2026-09-19T01:18:47.539389-0400 INFO Starting enumeration for domain: networkwalks.com
+2026-09-19T01:18:47.539776-0400 INFO std: Performing General Enumeration against: networkwalks.com...
+2026-09-19T01:18:47.869983-0400 ERROR No answer for DNSSEC query for networkwalks.com
+2026-09-19T01:18:48.268114-0400 INFO SOA ns6135.hostgator.com 50.87.144.87
+2026-09-19T01:18:48.551156-0400 INFO NS ns6135.hostgator.com 50.87.144.87
+2026-09-19T01:18:48.599448-0400 ERROR Recursion enabled on NS Server 50.87.144.87
+2026-09-19T01:18:48.606859-0400 INFO Bind Version for 50.87.144.87 "9.18.36"
+2026-09-19T01:18:48.607144-0400 INFO NS ns6136.hostgator.com 192.232.216.131
+2026-09-19T01:18:48.612069-0400 ERROR Recursion enabled on NS Server 192.232.216.131
+2026-09-19T01:18:48.648549-0400 INFO Bind Version for 192.232.216.131 "9.18.36"
+2026-09-19T01:18:49.270472-0400 INFO MX mail.networkwalks.com 192.232.216.135
+2026-09-19T01:18:49.589536-0400 INFO A networkwalks.com 192.232.216.135
+2026-09-19T01:18:50.488807-0400 INFO TXT networkwalks.com google-site-verification=rr04eRmqHoWY3XemnizDNVK4q75X-Ij-mjgEeg-UsYI
+2026-09-19T01:18:50.577513-0400 INFO Enumerating SRV Records
+2026-09-19T01:18:52.971484-0400 INFO SRV _autodiscover._tcp.networkwalks.com cpanelemaildiscovery.cpanel.net 184.94.203.9 443
+2026-09-19T01:18:52.973126-0400 INFO 8 Records Found
+2026-09-19T01:18:52.973376-0400 INFO Completed enumeration for domain: networkwalks.com
