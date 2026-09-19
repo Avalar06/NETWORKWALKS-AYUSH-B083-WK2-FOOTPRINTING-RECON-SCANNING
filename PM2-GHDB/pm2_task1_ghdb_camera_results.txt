@@ -1,0 +1,24 @@
+PM2 TASK 1 - GHDB CAMERA SEARCH
+
+GHDB Search Term:
+cam
+
+Search Result:
+100 GHDB entries found.
+
+Evidence:
+01-GHDB-cam-search.png
+
+Visible camera-related GHDB entries documented:
+1. Webcam / WebCam entry - Various Online Devices
+2. Toshiba Network Camera - Various Online Devices
+3. Index of /cam/ - Files Containing Juicy Info
+4. Index of /webcam/ - Files Containing Juicy Info
+5. Device (IP CAMERA) - Pages Containing Login Portals
+6. NoVus IP camera - Various Online Devices
+7. Network Camera - Various Online Devices
+8. Webcam site / ROMA - Various Online Devices
+9. Login / cam - Pages Containing Login Portals
+10. Real-time IP Camera Monitoring System - Various Online Devices
+
+No live camera endpoints were opened or accessed.
