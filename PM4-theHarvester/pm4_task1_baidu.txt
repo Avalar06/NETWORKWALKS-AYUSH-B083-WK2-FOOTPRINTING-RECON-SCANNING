@@ -1,0 +1,8 @@
+Read proxies.yaml from /etc/theHarvester/proxies.yaml
+theHarvester 4.10.1
+Target: networkwalks.com
+Searching Baidu.
+No IPs found.
+No emails found.
+No people found.
+No hosts found.
