@@ -1,0 +1,5 @@
+WhatWeb version: 0.6.4
+Ruby version: 3.3.8
+RubyGems version: 3.6.7
+Target: networkwalks.com
+Result: WhatWeb produced no output within the timeout period.
